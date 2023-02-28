@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:wght@500&display=swap');
+
+body{
+    margin:0px;
+    padding:0px;
+
+}
+
+header{
+    background-image: url('./assets/images/background_header.svg');
+    height:510px;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.texto{
+    color: white;
+    padding-left: 170px;
+    padding-top: 50px;
+    width: 500px;
+    
+    font-family: 'Inter';
+    
+
+}
+
+#menu{
+    padding:60px;
+}
+
+header h1{
+
+    font-size: 35px;
+    margin-top: -95px;
+
+}
+
+header h4{
+    
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+
+}
+
+
